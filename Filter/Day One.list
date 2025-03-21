@@ -1,0 +1,7 @@
+# > Day One
+USER-AGENT,DayOne*,Day One
+DOMAIN-KEYWORD,dayone,Day One
+DOMAIN-SUFFIX,ingest.sentry.io,Day One
+DOMAIN-SUFFIX,dayone-syncmedia-production-new.s3.amazonaws.com,Day One
+DOMAIN-SUFFIX,chocolate-prod.s3.amazonaws.com,Day One
+DOMAIN-SUFFIX,public-api.wordpress.com,Day One
